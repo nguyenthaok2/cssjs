@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='https://duan-novalandq2.blogspot.com/' target='_blank'><img src='https://2.bp.blogspot.com/-F4mR33HSxj8/Wst1qwgX5LI/AAAAAAAACj0/_32beEKNToYnVgjD3dxs0KQqddqc0M-JgCLcBGAs/s320/du-an-lakeview-city-novaland-quan-2.jpg' width='500px'/><br/>BÁN CĂN HỘ NOVALAND </a>. Liên hệ 0939088229. </h2>");
+			$("#myModal").html("<a href='https://duan-novalandq2.blogspot.com/' target='_blank'><img src='https://2.bp.blogspot.com/-F4mR33HSxj8/Wst1qwgX5LI/AAAAAAAACj0/_32beEKNToYnVgjD3dxs0KQqddqc0M-JgCLcBGAs/s320/du-an-lakeview-city-novaland-quan-2.jpg' width='500px'/><br/>BÁN CĂN HỘ NOVALAND </a>. Liên hệ 0912 201 149. </h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
