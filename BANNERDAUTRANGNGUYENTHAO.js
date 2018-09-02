@@ -116,7 +116,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='http://goo.gl/rKJWvA' target='_blank'><img src='https://lh3.googleusercontent.com/-gs6eC6BjIKs/W4vGK2jyZXI/AAAAAAAADG4/R5ywHU3O27kY7O48t1QE62Salx37wS9WACLcBGAs/h120/PHONG%2BKINH%2BDOANH%2BNOVALAND.jpg' width='500px'/><br/>Hotline PHÒNG KINH DOANH NOVALAND</a>. 0939 088 229. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='http://nguyenthaoland.com' target='_blank'><img src='https://lh3.googleusercontent.com/-gs6eC6BjIKs/W4vGK2jyZXI/AAAAAAAADG4/R5ywHU3O27kY7O48t1QE62Salx37wS9WACLcBGAs/h120/PHONG%2BKINH%2BDOANH%2BNOVALAND.jpg' width='500px'/><br/>Hotline PHÒNG KINH DOANH NOVALAND</a>. 0939 088 229. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
