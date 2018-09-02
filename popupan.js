@@ -1,5 +1,5 @@
 
-	var url_popup = 'https://nguyenthaoland.com';
+	var url_popup = 'http://nguyenthaoland.com';
 
       //<![CDATA[
 	  // var url_ppp = 'http://bit.ly/1KmPNYe';
