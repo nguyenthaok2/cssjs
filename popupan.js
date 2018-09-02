@@ -1,5 +1,5 @@
 
-	var url_popup = 'https://duan-novalandq2.blogspot.com';
+	var url_popup = 'https://nguyenthaoland.com';
 
       //<![CDATA[
 	  // var url_ppp = 'http://bit.ly/1KmPNYe';
